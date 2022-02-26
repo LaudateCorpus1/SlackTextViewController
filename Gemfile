@@ -7,4 +7,4 @@ gem 'coveralls', require: false
 
 gem 'slather', '~> 1.7.0'
 gem 'xcpretty'
-gem 'nokogiri', '= 1.6.3.1'
+gem 'nokogiri', '1.6.8.1'
